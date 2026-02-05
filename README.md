@@ -10,7 +10,7 @@
 
 ```bash
 # Clonar
-git clone https://github.com/tuusuario/wix-ticketprinter.git
+https://github.com/edilakes/wix-ticketprinter.git
 cd wix-ticketprinter
 
 # Configurar API Key
